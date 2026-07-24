@@ -1,12 +1,15 @@
-# C---projects
-This repository contains my beginner C programming projects.
+# C Projects
+
+Welcome to my C programming projects repository.
 
 ## Projects
 
 ### Rectangle Area Calculator
 - Language: C
-- Description: A simple console application that calculates the area of a rectangle based on user input.
+- Description: Calculates the area of a rectangle using user input.
 
-## Author
-Berat Yıldırım
-Computer Engineering Student at Gazi University
+## About Me
+
+- Computer Engineering Student
+- Gazi University
+- Learning C Programming now
